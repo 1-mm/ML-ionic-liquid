@@ -1,1 +1,12 @@
-# ML-ionic-liquid
+python 3.11.11
+conda 23.7.2
+GCC 7.3.1
+libxgboost 2.1.4
+lightgbm 3.3.5
+matplotlib 3.10.1
+pandas 2.2.3
+scikit-learn 1.6.1
+seaborn 0.13.2
+shap 0.47.0
+xgboost 2.1.4
+numpy 1.24.4
